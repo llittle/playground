@@ -1,6 +1,7 @@
 # Making merge conflicts in PP3!
 Will we be able to solve them??
-
-A place to play with `git`.
-
-### Fall 2020
+I'm
+makingA place to play with `git`.
+changes
+### EVERYWHEREFall 2020
+every line
